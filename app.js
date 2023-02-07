@@ -127,4 +127,3 @@ deleteBtn.addEventListener('click', button => {
 
 
 
-//kiedy używać klas?
